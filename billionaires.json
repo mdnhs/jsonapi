@@ -1,0 +1,56 @@
+[
+    {
+        "key": "B01",
+        "name": "Jeff Bezos",
+        "age": 57,
+        "country": "United States",
+        "source": "Amazon",
+        "worth": 177,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
+        "url": "https://www.forbes.com/profile/jeff-bezos/?list=billionaires"
+    },
+
+    {
+        "key": "B02",
+        "name": "Elon Musk",
+        "age": 49,
+        "country": "United States",
+        "source": "Tesla, SpaceX",
+        "worth": 151,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704",
+        "url": "https://www.forbes.com/profile/elon-musk/?list=billionaires"
+    },
+
+    {
+        "key": "B03",
+        "name": "Bernard Arnault",
+        "age": 72,
+        "country": "France",
+        "source": "LVMH",
+        "worth": 150,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc05518ca425400079c659f%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4000%26cropY1%3D1209%26cropY2%3D5212",
+        "url": "https://www.forbes.com/profile/bernard-arnault/?list=billionaires"
+    },
+
+    {
+        "key": "B05",
+        "name": "Mark Zuckerberg",
+        "age": 65,
+        "country": "United States",
+        "source": "Facebook",
+        "worth": 97,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
+        "url": "https://www.forbes.com/profile/mark-zuckerberg/?list=billionaires"
+    },
+
+    {
+        "key": "B06",
+        "name": "Warren Buffett",
+        "age": 90,
+        "country": "United States",
+        "source": "Facebook",
+        "worth": 96,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5babb7f1a7ea4342a948b79a%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D748%26cropX2%3D3075%26cropY1%3D1753%26cropY2%3D4082",
+        "url": "https://www.forbes.com/profile/warren-buffett/?list=billionaires"
+    }
+]
