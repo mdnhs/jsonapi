@@ -92,10 +92,30 @@
     {
         "key": "B10",
         "name": "Mukesh Ambani",
-        "age": 47,
+        "age": 63,
         "country": "India",
-        "source": "Google",
+        "source": "Diversified",
         "worth": 84.5,
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7829a7ea434b351ba0b6%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D206%26cropX2%3D2043%26cropY1%3D250%26cropY2%3D2089"
+    },
+
+    {
+        "key": "B11",
+        "name": "Amancio Ortega",
+        "age": 85,
+        "country": "Spain",
+        "source": "Zara",
+        "worth": 77,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b94131358e35dd27748e%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D179%26cropX2%3D2232%26cropY1%3D216%26cropY2%3D2269"
+    },
+
+    {
+        "key": "B12",
+        "name": "Francoise Bette",
+        "age": 67,
+        "country": "France",
+        "source": "L'Oreal",
+        "worth": 73.6,
+        "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e26e3c65f7c2596bd3e15%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
     }
 ]
