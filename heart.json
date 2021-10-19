@@ -4,5 +4,11 @@
     "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
     "discription": "English",
     "key": 1
+  },
+  {
+    "title": "Spoken Bangla",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
+    "discription": "Bangla",
+    "key": 2
   }
 ]
