@@ -1,20 +1,38 @@
 [
   {
-    "title": "Spoken English",
-    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
-    "discription": "English",
+    "title": "MRI Scan",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/CT-Scan-Machine.jpg",
+    "discription": "Today’s healthcare challenges are growing and becoming more specific to individual patient needs.",
     "key": 1
   },
   {
-    "title": "Spoken Bangla",
-    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
-    "discription": "Bangla",
+    "title": "CT Scan",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/gehc-revolution-maxima.jpg",
+    "discription": "It’s about understanding how one CT exam can improve patient outcomes while lowering the cost of providing care.",
     "key": 2
   },
   {
-    "title": "Spoken Bangla",
-    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
-    "discription": "Bangla",
+    "title": "ICU & CCU",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/ICU02.jpg",
+    "discription": "Intensive care unit is special department of our hospital that provides intensive care medicine, and treatment to critically ill patients.",
     "key": 3
+  },
+  {
+    "title": "Cath Lab",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/Cath-LAB-768x355.jpg",
+    "discription": "JEWMCH Cath lab department was inaugurated recently to cater the increasing number of patients with heart-related issues in the city.",
+    "key": 4
+  },
+  {
+    "title": "OT Complex",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/OT-768x353.jpg",
+    "discription": "A coronary care unit (CCU) or cardiac intensive care unit (CICU) is a hospital ward specialized in the care of patients with heart attacks.",
+    "key": 5
+  },
+  {
+    "title": "Endoscopy & Colonoscopy",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/endo-768x355.jpg",
+    "discription": "Most endoscopy procedures use an instrument called an endoscope.  An endoscope is a long, thin, flexible tube with a camera on the end.",
+    "key": 6
   }
 ]
