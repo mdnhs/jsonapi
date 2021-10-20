@@ -34,5 +34,23 @@
     "img": "https://jewmch.com/wp-content/uploads/2021/09/endo-768x355.jpg",
     "discription": "Most endoscopy procedures use an instrument called an endoscope.  An endoscope is a long, thin, flexible tube with a camera on the end.",
     "key": 6
+  },
+  {
+    "title": "Asthma",
+    "img": "https://bdhealthsolution.com/wp-content/uploads/2017/12/asthma-inflamed-tube-300x209.jpg",
+    "discription": "Asthma is a common long-term inflammatory disease of the airways of the lungs. It is characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm.",
+    "key": 7
+  },
+  {
+    "title": "Cancer Treatment",
+    "img": "https://bdhealthsolution.com/wp-content/uploads/2017/12/cancer.jpeg",
+    "discription": "Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.",
+    "key": 8
+  },
+  {
+    "title": "Chest Medicine",
+    "img": "https://bdhealthsolution.com/wp-content/uploads/2017/12/chest-medicine-600x375.jpg",
+    "discription": "Chest Medicine Associates is a group of physicians who are fellowship-trained and board-certified in the specialties of pulmonary.",
+    "key": 9
   }
 ]
