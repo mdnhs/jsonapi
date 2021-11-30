@@ -1,0 +1,23 @@
+[
+  {
+    "title": "MRI Scan",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/CT-Scan-Machine.jpg",
+    "discription": "Today’s healthcare challenges are growing and becoming more specific to individual patient needs.",
+    "key": 1,
+    "live": "https://mdnhs-store.web.app/"
+  },
+  {
+    "title": "CT Scan",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/gehc-revolution-maxima.jpg",
+    "discription": "It’s about understanding how one CT exam can improve patient outcomes while lowering the cost of providing care.",
+    "key": 2,
+    "live": "https://mdnhs-travel-agency.web.app/"
+  },
+  {
+    "title": "ICU & CCU",
+    "img": "https://jewmch.com/wp-content/uploads/2021/09/ICU02.jpg",
+    "discription": "Intensive care unit is special department of our hospital that provides intensive care medicine, and treatment to critically ill patients.",
+    "key": 3,
+    "live": "https://mdnhs-lms.netlify.app/"
+  }
+]
