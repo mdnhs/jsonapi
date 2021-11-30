@@ -1,22 +1,22 @@
 [
   {
-    "title": "MRI Scan",
+    "title": "MDNHS-Store",
     "img": "https://jewmch.com/wp-content/uploads/2021/09/CT-Scan-Machine.jpg",
-    "discription": "Today’s healthcare challenges are growing and becoming more specific to individual patient needs.",
+    "discription": "Created a single-page full-stack website using CRUD operation. Admin panel secured by the protected route. Admin can manage all products, orders and can add a new product.",
     "key": 1,
     "live": "https://mdnhs-store.web.app/"
   },
   {
-    "title": "CT Scan",
+    "title": "MDNHS-Travel-Agency",
     "img": "https://jewmch.com/wp-content/uploads/2021/09/gehc-revolution-maxima.jpg",
-    "discription": "It’s about understanding how one CT exam can improve patient outcomes while lowering the cost of providing care.",
+    "discription": "Created a fully responsive Tourism website. A client can create an individual user account. Sign in and sign up are provided by Firebase.",
     "key": 2,
     "live": "https://mdnhs-travel-agency.web.app/"
   },
   {
-    "title": "ICU & CCU",
+    "title": "MDNHS-LMS",
     "img": "https://jewmch.com/wp-content/uploads/2021/09/ICU02.jpg",
-    "discription": "Intensive care unit is special department of our hospital that provides intensive care medicine, and treatment to critically ill patients.",
+    "discription": "We got our service dynamically in Card We show 4 Types of service in 1st page by json api People can message us from contact page",
     "key": 3,
     "live": "https://mdnhs-lms.netlify.app/"
   }
